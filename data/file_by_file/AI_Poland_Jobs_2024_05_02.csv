@@ -1,0 +1,61 @@
+Id,Title,Senior,Company,Location,Salary,Currency
+1.0,Machine Learning Developer,False,,Zdalnie    +1,17 000  – 20 000  PLN,PLN
+2.0,Senior Remote AI Engineer,True,,Zdalnie,25 200  – 30 240  PLN,PLN
+3.0,Senior AI Engineer,True,,Zdalnie    +1,25 200  – 33 600  PLN,PLN
+4.0,AI Engineer,False,,Zdalnie    +1,15 120  – 19 320  PLN,PLN
+5.0,AI Consultant,False,,Warszawa    +4,26 880  – 33 600  PLN,PLN
+6.0,Senior ML Engineer (GCP),True,,Zdalnie    +1,28 560  – 36 960  PLN,PLN
+7.0,Senior MLOps Engineer - Remote,True,,Zdalnie,36 120  – 42 840  PLN,PLN
+8.0,"System Software Engineer, Python and C/C++ - DL",False,,Zdalnie    +1,Sprawdź Salary Match,SprawdSalaryMatch
+9.0,Senior Software Engineer,True,,Warsaw,20 000  – 30 000  PLN,PLN
+10.0,Senior DL Performance Infrastructure &amp; MLOps Eng.,True,,Zdalnie    +1,Sprawdź Salary Match,SprawdSalaryMatch
+11.0,"Senior Performance Software Engineer, DL Libraries",True,,Zdalnie    +1,Sprawdź Salary Match,SprawdSalaryMatch
+12.0,"System Software Engineer , Python, C/C++ - DL",False,,Zdalnie    +1,Sprawdź Salary Match,SprawdSalaryMatch
+13.0,AI Engineer,False,,Warsaw,17 000  – 21 000  PLN,PLN
+14.0,Machine Learning Engineer,False,,Zdalnie    +2,13 000  – 18 000  PLN,PLN
+15.0,Senior JavaScript Developer (AI projects),True,,Zdalnie    +2,17 000  – 28 000  PLN,PLN
+16.0,Senior Data Scientist,True,,Warsaw,20 000  – 28 000  PLN,PLN
+17.0,Director of Data Science,False,,Zdalnie    +1,18 000  – 23 000  PLN,PLN
+18.0,Machine Learning Engineering Leader,True,,Zdalnie    +1,28 560  – 31 920  PLN,PLN
+19.0,Machine Learning Engineer,False,,Zdalnie    +1,21 840  – 25 200  PLN,PLN
+20.0,Senior Research Scientist,True,,Warsaw,30 000  – 60 000  PLN,PLN
+21.0,Machine Learning Developer,False,,Zdalnie    +1,17 000  – 20 000  PLN,PLN
+22.0,Senior Remote AI Engineer,True,,Zdalnie,25 200  – 30 240  PLN,PLN
+23.0,Senior AI Engineer,True,,Zdalnie    +1,25 200  – 33 600  PLN,PLN
+24.0,AI Engineer,False,,Zdalnie    +1,15 120  – 19 320  PLN,PLN
+25.0,AI Consultant,False,,Warszawa    +4,26 880  – 33 600  PLN,PLN
+26.0,Senior ML Engineer (GCP),True,,Zdalnie    +1,28 560  – 36 960  PLN,PLN
+27.0,Senior MLOps Engineer - Remote,True,,Zdalnie,36 120  – 42 840  PLN,PLN
+28.0,"System Software Engineer, Python and C/C++ - DL",False,,Zdalnie    +1,Sprawdź Salary Match,SprawdSalaryMatch
+29.0,Senior Software Engineer,True,,Warsaw,20 000  – 30 000  PLN,PLN
+30.0,Senior DL Performance Infrastructure &amp; MLOps Eng.,True,,Zdalnie    +1,Sprawdź Salary Match,SprawdSalaryMatch
+31.0,"Senior Performance Software Engineer, DL Libraries",True,,Zdalnie    +1,Sprawdź Salary Match,SprawdSalaryMatch
+32.0,"System Software Engineer , Python, C/C++ - DL",False,,Zdalnie    +1,Sprawdź Salary Match,SprawdSalaryMatch
+33.0,AI Engineer,False,,Warsaw,17 000  – 21 000  PLN,PLN
+34.0,Machine Learning Engineer,False,,Zdalnie    +2,13 000  – 18 000  PLN,PLN
+35.0,Senior JavaScript Developer (AI projects),True,,Zdalnie    +2,17 000  – 28 000  PLN,PLN
+36.0,Senior Data Scientist,True,,Warsaw,20 000  – 28 000  PLN,PLN
+37.0,Director of Data Science,False,,Zdalnie    +1,18 000  – 23 000  PLN,PLN
+38.0,Machine Learning Engineering Leader,True,,Zdalnie    +1,28 560  – 31 920  PLN,PLN
+39.0,Machine Learning Engineer,False,,Zdalnie    +1,21 840  – 25 200  PLN,PLN
+40.0,Senior Research Scientist,True,,Warsaw,30 000  – 60 000  PLN,PLN
+41.0,Machine Learning Developer,False,,Zdalnie    +1,17 000  – 20 000  PLN,PLN
+42.0,Senior Remote AI Engineer,True,,Zdalnie,25 200  – 30 240  PLN,PLN
+43.0,Senior AI Engineer,True,,Zdalnie    +1,25 200  – 33 600  PLN,PLN
+44.0,AI Engineer,False,,Zdalnie    +1,15 120  – 19 320  PLN,PLN
+45.0,AI Consultant,False,,Warszawa    +4,26 880  – 33 600  PLN,PLN
+46.0,Senior ML Engineer (GCP),True,,Zdalnie    +1,28 560  – 36 960  PLN,PLN
+47.0,Senior MLOps Engineer - Remote,True,,Zdalnie,36 120  – 42 840  PLN,PLN
+48.0,"System Software Engineer, Python and C/C++ - DL",False,,Zdalnie    +1,Sprawdź Salary Match,SprawdSalaryMatch
+49.0,Senior Software Engineer,True,,Warsaw,20 000  – 30 000  PLN,PLN
+50.0,Senior DL Performance Infrastructure &amp; MLOps Eng.,True,,Zdalnie    +1,Sprawdź Salary Match,SprawdSalaryMatch
+51.0,"Senior Performance Software Engineer, DL Libraries",True,,Zdalnie    +1,Sprawdź Salary Match,SprawdSalaryMatch
+52.0,"System Software Engineer , Python, C/C++ - DL",False,,Zdalnie    +1,Sprawdź Salary Match,SprawdSalaryMatch
+53.0,AI Engineer,False,,Warsaw,17 000  – 21 000  PLN,PLN
+54.0,Machine Learning Engineer,False,,Zdalnie    +2,13 000  – 18 000  PLN,PLN
+55.0,Senior JavaScript Developer (AI projects),True,,Zdalnie    +2,17 000  – 28 000  PLN,PLN
+56.0,Senior Data Scientist,True,,Warsaw,20 000  – 28 000  PLN,PLN
+57.0,Director of Data Science,False,,Zdalnie    +1,18 000  – 23 000  PLN,PLN
+58.0,Machine Learning Engineering Leader,True,,Zdalnie    +1,28 560  – 31 920  PLN,PLN
+59.0,Machine Learning Engineer,False,,Zdalnie    +1,21 840  – 25 200  PLN,PLN
+60.0,Senior Research Scientist,True,,Warsaw,30 000  – 60 000  PLN,PLN

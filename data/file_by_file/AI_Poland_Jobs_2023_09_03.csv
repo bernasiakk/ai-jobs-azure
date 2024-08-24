@@ -1,0 +1,51 @@
+Id,Title,Senior,Company,Location,Salary,Currency
+1.0,Junior Machine Learning,False,Mindpal,Zdalnie,8 400  – 11 760  PLN,PLN
+2.0,AI &amp; Math (PhD/ongoing PhD nice-to-have),False,Camino Science sp. z o.o.,Zdalnie    +1,15 000  – 25 000  PLN,PLN
+3.0,Senior Deep Learning Engineer,True,Focal Systems,Zdalnie,74 000  – 119 000  PLN,PLN
+4.0,Deep Learning Engineer,False,Focal Systems,Zdalnie,44 700  – 74 600  PLN,PLN
+5.0,Senior Machine Learning Engineer,True,Graylight Imaging Sp. zo.o.,Gliwice,12 300  – 19 900  PLN,PLN
+6.0,Mid AI Specialist,False,Grupa Morizon-Gratka Sp. z o.o.,Warszawa    +1,10 000  – 16 000  PLN,PLN
+7.0,Senior AI Specialist,True,Grupa Morizon-Gratka Sp. z o.o.,Warszawa    +1,14 000  – 20 000  PLN,PLN
+8.0,Tester oprogramowania systemów AI,False,Maxto,Kraków,5 000  – 10 000  PLN,PLN
+9.0,Analityka video AI - Programista PHP,False,Maxto,Kraków,8 000  – 16 000  PLN,PLN
+10.0,Senior AI Programmer - Gaming,True,ITDS,Warsaw,16 800  – 31 500  PLN,PLN
+11.0,Oracle Consultant - AI,False,Zone IT Sp. z o.o.,Wrocław,19 000  – 28 000  PLN,PLN
+12.0,Data Scientist - AI,False,Zone IT Sp. z o.o.,Zdalnie    +1,19 000  – 32 000  PLN,PLN
+13.0,Python Developer - AI,False,Zone IT Sp. z o.o.,Zdalnie    +1,17 000  – 28 000  PLN,PLN
+14.0,Machine Learning Engineer,False,Zone IT Sp. z o.o.,Zdalnie    +1,18 000  – 26 000  PLN,PLN
+15.0,Database Expert - AI,True,Zone IT Sp. z o.o.,Zdalnie    +1,19 000  – 28 000  PLN,PLN
+16.0,App Architect - AI,False,Zone IT Sp. z o.o.,Zdalnie    +1,20 000  – 25 000  PLN,PLN
+17.0,Senior Deep Learning Firmware Engineer,True,EER Poland,Kraków,25 000  – 40 000  PLN,PLN
+18.0,Senior Data Scientist REMOTE 🌍,True,Sigmoidal LLC,Zdalnie,28 058  – 34 867  PLN,PLN
+19.0,Remote MLOps Engineer,False,LiveChat,Zdalnie    +1,18 000  – 34 000  PLN,PLN
+20.0,Machine Learning Engineer,False,Link Group,Kraków    +1,22 000  – 29 000  PLN,PLN
+21.0,Senior AI &amp; Math CUDA (C++) Developer,True,Camino Science sp. z o.o.,Zdalnie    +1,16 000  – 19 000  PLN,PLN
+22.0,NLP Engineer,False,Business Online Services,Zdalnie,14 000  – 24 000  PLN,PLN
+23.0,Remote MLOps Engineer / Data Scientist,False,Addepto,Zdalnie    +5,12 600  – 20 160  PLN,PLN
+24.0,Remote Senior Data Scientist (Computer Vision),True,Addepto,Zdalnie    +5,18 480  – 28 560  PLN,PLN
+25.0,Data Automation &amp; AI Engineer,False,Pitney Bowes Polska Sp. z o.o.,Zdalnie    +1,15 000  – 20 000  PLN,PLN
+26.0,AI &amp; BigDate Team Member,False,CIŚ within Narodowe Centrum Badań Jądrowych,Otwock,5 000  – 7 000  PLN,PLN
+27.0,Data Scientist (AI),False,Addepto,Zdalnie    +5,6 000  – 12 000  PLN,PLN
+28.0,AI &amp; Math CUDA (C++) Developer,False,Camino Science sp. z o.o.,Zdalnie    +1,12 000  – 16 000  PLN,PLN
+29.0,AI Engineer,False,CallPage,Zdalnie    +1,14 000  – 24 000  PLN,PLN
+30.0,Senior JavaScript Developer (AI projects),True,10Clouds,Zdalnie    +2,17 000  – 28 000  PLN,PLN
+31.0,Mid AI Engineer,False,Firmao CRM,Łódź,13 000  – 20 000  PLN,PLN
+32.0,Principal Deep Learning Engineer,False,Focal Systems,Zdalnie,92 250  – 180 811  PLN,PLN
+33.0,Senior Data Scientist,True,Focal Systems,Zdalnie,25 000  – 35 000  PLN,PLN
+34.0,EDGE Machine Learning Engineer,False,MEV,Zdalnie    +2,18 568  – 30 947  PLN,PLN
+35.0,Data Scientist/AI Developer,False,Algomine,Zdalnie    +1,13 440  – 25 200  PLN,PLN
+36.0,Senior ML Voice - Part Time,True,AI REV,Zdalnie    +1,18 000  PLN,PLN
+37.0,Computer Vision Engineer,False,Spline,Zdalnie,22 000  – 25 000  PLN,PLN
+38.0,Data Engineer Azure,False,Zone IT Sp. z o.o.,Wrocław,18 000  – 26 000  PLN,PLN
+39.0,Senior AI Engineer,True,Neontri,Zdalnie    +1,33 600  – 38 640  PLN,PLN
+40.0,"Python, AI Developer",False,VUMO,Kraków,11 000  – 14 000  PLN,PLN
+41.0,ML Engineer Senior - Full Time,True,AI REV,Zdalnie,22 680  – 31 584  PLN,PLN
+42.0,AI Engineer,False,VUMO,Kraków,16 000  – 20 000  PLN,PLN
+43.0,Senior Data Scientist,True,SKY ENGINE AI,Warsaw,20 000  – 28 000  PLN,PLN
+44.0,Mid AI Engineer,False,Flyps,Zdalnie    +1,18 000  – 24 000  PLN,PLN
+45.0,Senior AI Engineer,True,Flyps,Zdalnie    +1,25 000  – 30 000  PLN,PLN
+46.0,Junior Machine Learning,False,Mindpal,Zdalnie,8 400  – 11 760  PLN,PLN
+47.0,Junior Machine Learning,False,Mindpal,Zdalnie,8 400  – 11 760  PLN,PLN
+48.0,Junior Data Ingestion Engineer,False,Sigmoidal LLC,Wrocław,7 000  – 12 000  PLN,PLN
+49.0,Senior Machine Learning Engineer,True,"Secret Sauce Partners, Inc.",Zdalnie,10 490  – 20 980  PLN,PLN
+50.0,Data Scientist,False,"Secret Sauce Partners, Inc.",Zdalnie,10 490  – 20 980  PLN,PLN

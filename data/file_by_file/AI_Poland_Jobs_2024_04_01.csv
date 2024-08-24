@@ -1,0 +1,87 @@
+Id,Title,Senior,Company,Location,Salary,Currency
+1.0,Machine Learning Engineer (R&amp;D),False,,Zdalnie,17 640  – 25 830  PLN,PLN
+2.0,Senior AI Engineer,True,,Zdalnie    +1,25 200  – 33 600  PLN,PLN
+3.0,AI Engineer,False,,Zdalnie    +1,15 120  – 19 320  PLN,PLN
+4.0,Senior / Lead AI engineer - Remote,True,,Zdalnie,30 240  – 38 640  PLN,PLN
+5.0,Senior ML Engineer - Remote,True,,Zdalnie,23 520  – 30 240  PLN,PLN
+6.0,Team Manager (AI/IoT),False,,Kraków,19 000  – 26 000  PLN,PLN
+7.0,Senior Software Engineer,True,,Warsaw,20 000  – 30 000  PLN,PLN
+8.0,Tech Lead AI Engineer - hybrid from Cracow,True,,Kraków,Sprawdź Salary Match,SprawdSalaryMatch
+9.0,Senior Data Scientist,True,,Warsaw,20 000  – 28 000  PLN,PLN
+10.0,Senior Data Scientist (AzureML + Python),True,,Zdalnie,31 080  – 36 120  PLN,PLN
+11.0,AI Developer,False,,Zdalnie    +1,16 800  – 23 520  PLN,PLN
+12.0,Data Scientist,False,,Katowice,12 000  – 24 000  PLN,PLN
+13.0,AI Engineer,False,,Warsaw,17 000  – 21 000  PLN,PLN
+14.0,Machine Learning Engineer,False,,Zdalnie,17 640  – 25 830  PLN,PLN
+15.0,AI/ML Engineer,False,,Zdalnie,20 000  – 30 000  PLN,PLN
+16.0,Senior Research Scientist,True,,Warsaw,30 000  – 60 000  PLN,PLN
+17.0,AI Domain Lead (Head of AI),True,,Zdalnie    +4,24 024  – 31 920  PLN,PLN
+18.0,AI DevOps Engineer,False,,Zdalnie    +1,15 120  – 20 160  PLN,PLN
+19.0,Data Science Manager,False,,Zdalnie    +5,18 000  – 30 000  PLN,PLN
+20.0,Senior AI Developer - Remote,True,,Zdalnie,30 000  – 38 000  PLN,PLN
+21.0,Machine Learning Engineer (R&amp;D),False,,Zdalnie,17 640  – 25 830  PLN,PLN
+22.0,Senior AI Engineer,True,,Zdalnie    +1,25 200  – 33 600  PLN,PLN
+23.0,AI Engineer,False,,Zdalnie    +1,15 120  – 19 320  PLN,PLN
+24.0,Senior / Lead AI engineer - Remote,True,,Zdalnie,30 240  – 38 640  PLN,PLN
+25.0,Senior ML Engineer - Remote,True,,Zdalnie,23 520  – 30 240  PLN,PLN
+26.0,Team Manager (AI/IoT),False,,Kraków,19 000  – 26 000  PLN,PLN
+27.0,Senior Software Engineer,True,,Warsaw,20 000  – 30 000  PLN,PLN
+28.0,Tech Lead AI Engineer - hybrid from Cracow,True,,Kraków,Sprawdź Salary Match,SprawdSalaryMatch
+29.0,Senior Data Scientist,True,,Warsaw,20 000  – 28 000  PLN,PLN
+30.0,Senior Data Scientist (AzureML + Python),True,,Zdalnie,31 080  – 36 120  PLN,PLN
+31.0,AI Developer,False,,Zdalnie    +1,16 800  – 23 520  PLN,PLN
+32.0,Data Scientist,False,,Katowice,12 000  – 24 000  PLN,PLN
+33.0,AI Engineer,False,,Warsaw,17 000  – 21 000  PLN,PLN
+34.0,Machine Learning Engineer,False,,Zdalnie,17 640  – 25 830  PLN,PLN
+35.0,AI/ML Engineer,False,,Zdalnie,20 000  – 30 000  PLN,PLN
+36.0,Senior Research Scientist,True,,Warsaw,30 000  – 60 000  PLN,PLN
+37.0,AI Domain Lead (Head of AI),True,,Zdalnie    +4,24 024  – 31 920  PLN,PLN
+38.0,AI DevOps Engineer,False,,Zdalnie    +1,15 120  – 20 160  PLN,PLN
+39.0,Data Science Manager,False,,Zdalnie    +5,18 000  – 30 000  PLN,PLN
+40.0,Senior AI Developer - Remote,True,,Zdalnie,30 000  – 38 000  PLN,PLN
+41.0,AI &amp; Math CUDA (C++) Developer,False,,Zdalnie    +1,12 000  – 16 000  PLN,PLN
+42.0,Senior AI &amp; Math CUDA (C++) Developer,True,,Zdalnie    +1,16 000  – 19 000  PLN,PLN
+43.0,Director of Software Engineering&amp;Data Management,False,,Kraków,17 000  – 22 000  PLN,PLN
+44.0,Data Scientist,False,,Gdynia    +2,16 800  – 21 840  PLN,PLN
+45.0,AI Technical Consultant,False,,Zdalnie,27 000  – 34 000  PLN,PLN
+46.0,Machine Learning Engineer,False,,Kraków,13 000  – 15 000  PLN,PLN
+47.0,Senior AI Engineer (GenerativeAI),True,,Zdalnie    +1,25 200  – 33 600  PLN,PLN
+48.0,Lead Data Scientist,True,,Zdalnie    +5,19 000  – 34 000  PLN,PLN
+49.0,Senior JavaScript Developer (AI projects),True,,Zdalnie    +2,17 000  – 28 000  PLN,PLN
+50.0,AI Engineer with Python,False,,Warsaw    +3,23 520  – 27 720  PLN,PLN
+51.0,AI Engineer,False,,Zdalnie    +1,13 000  – 19 000  PLN,PLN
+52.0,Intern - Generative AI,False,,Warsaw,7 560  – 8 400  PLN,PLN
+53.0,Intern / Junior AI Engineer,False,,Poznań,5 500  – 9 000  PLN,PLN
+54.0,Machine Learning Engineer (R&amp;D),False,,Zdalnie,17 640  – 25 830  PLN,PLN
+55.0,Senior AI Engineer,True,,Zdalnie    +1,25 200  – 33 600  PLN,PLN
+56.0,AI Engineer,False,,Zdalnie    +1,15 120  – 19 320  PLN,PLN
+57.0,Senior / Lead AI engineer - Remote,True,,Zdalnie,30 240  – 38 640  PLN,PLN
+58.0,Senior ML Engineer - Remote,True,,Zdalnie,23 520  – 30 240  PLN,PLN
+59.0,Team Manager (AI/IoT),False,,Kraków,19 000  – 26 000  PLN,PLN
+60.0,Senior Software Engineer,True,,Warsaw,20 000  – 30 000  PLN,PLN
+61.0,Tech Lead AI Engineer - hybrid from Cracow,True,,Kraków,Sprawdź Salary Match,SprawdSalaryMatch
+62.0,Senior Data Scientist,True,,Warsaw,20 000  – 28 000  PLN,PLN
+63.0,Senior Data Scientist (AzureML + Python),True,,Zdalnie,31 080  – 36 120  PLN,PLN
+64.0,AI Developer,False,,Zdalnie    +1,16 800  – 23 520  PLN,PLN
+65.0,Data Scientist,False,,Katowice,12 000  – 24 000  PLN,PLN
+66.0,AI Engineer,False,,Warsaw,17 000  – 21 000  PLN,PLN
+67.0,Machine Learning Engineer,False,,Zdalnie,17 640  – 25 830  PLN,PLN
+68.0,AI/ML Engineer,False,,Zdalnie,20 000  – 30 000  PLN,PLN
+69.0,Senior Research Scientist,True,,Warsaw,30 000  – 60 000  PLN,PLN
+70.0,AI Domain Lead (Head of AI),True,,Zdalnie    +4,24 024  – 31 920  PLN,PLN
+71.0,AI DevOps Engineer,False,,Zdalnie    +1,15 120  – 20 160  PLN,PLN
+72.0,Data Science Manager,False,,Zdalnie    +5,18 000  – 30 000  PLN,PLN
+73.0,Senior AI Developer - Remote,True,,Zdalnie,30 000  – 38 000  PLN,PLN
+74.0,AI &amp; Math CUDA (C++) Developer,False,,Zdalnie    +1,12 000  – 16 000  PLN,PLN
+75.0,Senior AI &amp; Math CUDA (C++) Developer,True,,Zdalnie    +1,16 000  – 19 000  PLN,PLN
+76.0,Director of Software Engineering&amp;Data Management,False,,Kraków,17 000  – 22 000  PLN,PLN
+77.0,Data Scientist,False,,Gdynia    +2,16 800  – 21 840  PLN,PLN
+78.0,AI Technical Consultant,False,,Zdalnie,27 000  – 34 000  PLN,PLN
+79.0,Machine Learning Engineer,False,,Kraków,13 000  – 15 000  PLN,PLN
+80.0,Senior AI Engineer (GenerativeAI),True,,Zdalnie    +1,25 200  – 33 600  PLN,PLN
+81.0,Lead Data Scientist,True,,Zdalnie    +5,19 000  – 34 000  PLN,PLN
+82.0,Senior JavaScript Developer (AI projects),True,,Zdalnie    +2,17 000  – 28 000  PLN,PLN
+83.0,AI Engineer with Python,False,,Warsaw    +3,23 520  – 27 720  PLN,PLN
+84.0,AI Engineer,False,,Zdalnie    +1,13 000  – 19 000  PLN,PLN
+85.0,Intern - Generative AI,False,,Warsaw,7 560  – 8 400  PLN,PLN
+86.0,Intern / Junior AI Engineer,False,,Poznań,5 500  – 9 000  PLN,PLN

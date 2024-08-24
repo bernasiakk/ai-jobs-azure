@@ -1,0 +1,59 @@
+Id,Title,Senior,Company,Location,Salary,Currency
+1.0,Machine Learning Engineer,False,Quickchat AI,Warszawa,12 566  – 25 132  PLN,PLN
+2.0,AI Engineer,False,Zone IT Sp. z o.o.,Wrocław,12 000  – 21 000  PLN,PLN
+3.0,Test Engineer AI,False,Zone IT Sp. z o.o.,Wrocław,12 000  – 21 000  PLN,PLN
+4.0,Application Support Engineer,False,Zone IT Sp. z o.o.,Wrocław,12 000  – 21 000  PLN,PLN
+5.0,Java Developer AI,False,Zone IT Sp. z o.o.,Wrocław,12 000  – 22 000  PLN,PLN
+6.0,Integration Specialist AI,False,Zone IT Sp. z o.o.,Wrocław,12 000  – 21 000  PLN,PLN
+7.0,Senior Project Manager - Data Labeling,True,Focal Systems,Zdalnie,22 000  – 30 000  PLN,PLN
+8.0,Machine Learning Engineer,False,AI Clearing,"Warsaw  , pl",14 000  – 20 000  PLN,PLN
+9.0,Machine Learning Operations,False,Four Point,Wrocław,12 000  – 20 000  PLN,PLN
+10.0,AI &amp; Math (PhD/ongoing PHD preferable),False,Camino Science sp. z o.o.,Zdalnie    +1,16 000  – 25 000  PLN,PLN
+11.0,Remote Senior NLP Engineer,True,Sigmoidal LLC,Zdalnie    +3,25 132  – 35 394  PLN,PLN
+12.0,Python Developer with Computer Vision,False,Numlabs,Zdalnie    +1,10 000  – 15 000  PLN,PLN
+13.0,Python Machine Learning Engineer,False,Numlabs,Zdalnie,13 000  – 17 000  PLN,PLN
+14.0,Data Scientist,False,Numlabs,Zdalnie    +1,10 000  – 15 000  PLN,PLN
+15.0,Senior Data Scientist,True,Axiom Health,Sopot    +1,25 132  – 33 509  PLN,PLN
+16.0,Machine Learning Engineer (XAI project),False,10 Senses,Warszawa    +1,25 200  – 33 600  PLN,PLN
+17.0,Principal Deep Learning Engineer,False,Focal Systems,Zdalnie,92 250  – 180 811  PLN,PLN
+18.0,Machine Learning Engineer,False,Zone IT Sp. z o.o.,Wrocław,18 000  – 26 000  PLN,PLN
+19.0,Data Scientist AI,False,Zone IT Sp. z o.o.,Wrocław,19 000  – 32 000  PLN,PLN
+20.0,Python Developer - AI,False,Zone IT Sp. z o.o.,Wrocław,17 000  – 28 000  PLN,PLN
+21.0,Deep Learning Engineer,False,Focal Systems,Zdalnie,44 700  – 74 600  PLN,PLN
+22.0,Machine Learning Engineer (Mid),False,Tooploox,Zdalnie    +2,13 000  – 19 000  PLN,PLN
+23.0,Machine Learning Engineer (Senior),True,Tooploox,Zdalnie    +2,18 000  – 26 000  PLN,PLN
+24.0,Senior Deep Learning Engineer,True,Focal Systems,Zdalnie,74 000  – 119 000  PLN,PLN
+25.0,AI &amp; Math (Open PhD Conduct),False,Camino Science sp. z o.o.,Zdalnie    +1,10 000  – 14 000  PLN,PLN
+26.0,AI Engineer - Custom LLM Models,False,Chorus One,Zdalnie,33 592  – 44 790  PLN,PLN
+27.0,Machine Learning Engineer,False,hubQuest,Zdalnie    +1,20 000  – 27 000  PLN,PLN
+28.0,AI Engineer,False,CDeX,Zdalnie    +1,27 000  – 32 000  PLN,PLN
+29.0,Remote Fullstack Python Developer,False,Decerto Sp. z o.o.,Zdalnie    +1,24 000  PLN,PLN
+30.0,Mid AI Engineer,False,Vestigit,Wrocław,12 000  – 17 000  PLN,PLN
+31.0,Senior AI Engineer,True,Vestigit,Wrocław,20 000  – 25 000  PLN,PLN
+32.0,MLOps Platform Engineer,False,PKO Finat Sp. z o.o.,Warszawa,16 800  – 21 840  PLN,PLN
+33.0,Lead Python + Django AI,True,Ideamotive,Zdalnie,24 000  – 37 000  PLN,PLN
+34.0,Applied Scientist (Mid/Senior),True,Infermedica Sp z.o.o,Zdalnie    +1,20 000  – 25 000  PLN,PLN
+35.0,Senior Machine Learning Engineer,True,Sigmoidal LLC,Zdalnie    +5,25 132  – 35 394  PLN,PLN
+36.0,Senior Applied Research Scientist,True,Infermedica Sp z.o.o,Zdalnie    +1,20 000  – 25 000  PLN,PLN
+37.0,Regular / Senior Data Scientist,True,hubQuest,Zdalnie    +1,20 000  – 28 500  PLN,PLN
+38.0,Remote Backend/AI Engineer (Golang),False,Bash,Zdalnie,14 000  – 24 000  PLN,PLN
+39.0,Remote Senior Project Manager - AI,True,Thoriana Sp. z o.o.,Zdalnie    +1,17 000  – 22 000  PLN,PLN
+40.0,Junior Analyst - AI,False,Thoriana Sp. z o.o.,Warsaw,8 000  – 12 000  PLN,PLN
+41.0,Remote Mid Analyst - AI,False,Thoriana Sp. z o.o.,Zdalnie    +1,12 000  – 16 000  PLN,PLN
+42.0,Remote Mid Project Manager - AI,False,Thoriana Sp. z o.o.,Zdalnie    +1,12 000  – 16 000  PLN,PLN
+43.0,Programista / Programistka AI,False,BeSafe24,Poznań,6 000  – 9 000  PLN,PLN
+44.0,Machine Learning Engineer,False,RTB House,Zdalnie    +1,30 000  – 47 000  PLN,PLN
+45.0,Mid/Senior MLOps Engineer,True,GetInData | Part of Xebia,Zdalnie    +1,16 800  – 33 600  PLN,PLN
+46.0,Senior Machine Learning NLP LLM Engineer,True,Kinetix Trading Solutions,Zdalnie    +5,25 000  – 32 000  PLN,PLN
+47.0,Data Scientist,False,Sales&amp;More,Zdalnie    +1,7 500  – 15 000  PLN,PLN
+48.0,PhD student in Reinforcement Learning,False,Uniwersytet Jagielloński,Kraków,12 550  PLN,PLN
+49.0,Senior Python Computer Vision Engineer,True,Unitem,Wrocław,15 000  – 20 000  PLN,PLN
+50.0,Data Scientist Lead,True,Objectivity,Zdalnie    +2,30 240  – 38 640  PLN,PLN
+51.0,Remote MLOps Engineer,False,LiveChat,Zdalnie    +1,18 000  – 34 000  PLN,PLN
+52.0,Application Support Engineer,False,Recruby,Zdalnie    +1,14 572  – 19 430  PLN,PLN
+53.0,C++ Developer,False,Recruby,"Budapest  , HU",10 929  – 17 001  PLN,PLN
+54.0,Senior NLP Data Scientist,True,SEON Technologies,"Budapest  , HU",18 216  – 24 288  PLN,PLN
+55.0,Test Automation Engineer (Java),False,Recruby,"Budapest  , HU",9 715  – 17 001  PLN,PLN
+56.0,C# fejlesztő,False,DLM Solutions Szolgáltató Kft.,"Szolnok  , HU",4 857  – 9 715  PLN,PLN
+57.0,OpenAI API Integration Engineer,False,Dekra Akademie Kft.,"Budapest  , HU",13 358  – 18 216  PLN,PLN
+58.0,Senior Java Developer,True,Recruby,"Budapest  , HU",20 644  – 31 574  PLN,PLN
